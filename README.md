@@ -1,31 +1,45 @@
-git@github.com:BaracusHanson/Learn-Home.giLearn@Home - Plateforme de Soutien Scolaire en Ligne
-📖 Description
-Learn@Home est une plateforme de mise en relation entre des enfants en difficulté scolaire et des bénévoles souhaitant les accompagner dans leur apprentissage. L'objectif est de permettre à chaque élève, quel que soit son emplacement, d'accéder à un soutien scolaire personnalisé et régulier via des rendez-vous hebdomadaires en ligne.
+📚 Learn@Home
+Apprendre n’a jamais été aussi accessible.
 
-La plateforme inclut un tableau de bord, une interface de chat, un calendrier et un outil de gestion des tâches, permettant une expérience fluide pour les élèves et les bénévoles.
+🌟 Description du Projet
+Learn@Home est une plateforme de soutien scolaire en ligne qui connecte des enfants en difficulté avec des bénévoles motivés. Grâce à des outils simples et intuitifs, nous offrons à chaque élève l’opportunité de progresser à son rythme, peu importe où il se trouve.
 
+Les principales fonctionnalités incluent un tableau de bord centralisé, une interface de chat instantané, un calendrier interactif, et un système de gestion des tâches pour organiser le travail des élèves et des bénévoles.
 
-🚀 Fonctionnalités
-1. Connexion & Création de Compte
+🎯 Objectifs du Projet
+Accessibilité : Permettre un soutien scolaire accessible à tous, partout.
+Simplicité : Offrir une interface utilisateur intuitive pour les élèves et bénévoles.
+Efficacité : Centraliser toutes les informations clés (tâches, rendez-vous, messages) dans un seul espace.
+Collaboration : Renforcer les interactions entre les élèves et leurs tuteurs.
+🔧 Fonctionnalités Principales
+1. Page de Connexion
 Authentification pour les élèves et les bénévoles.
-Récupération du mot de passe en cas d'oubli.
-Création de compte pour les nouveaux utilisateurs.
+Options pour récupérer un mot de passe oublié ou créer un compte.
 2. Tableau de Bord
-Vue d'ensemble des tâches, des événements à venir et des messages non lus.
-Possibilité de cliquer sur un résumé pour accéder à la page correspondante (gestion des tâches, calendrier, ou chat).
+Vue d’ensemble des tâches, des événements à venir et des messages non lus.
+Navigation rapide vers les pages spécifiques en cliquant sur les éléments résumés.
 3. Interface de Chat
-Discussion instantanée entre élèves et bénévoles.
-Accès à l'historique des conversations.
-Ajout/suppression de contacts.
-Indicateur de lecture, horodatage des messages, et photo de profil des expéditeurs.
+Messagerie instantanée entre élèves et tuteurs.
+Historique des conversations.
+Fonctionnalités supplémentaires :
+Photo de profil de l’expéditeur.
+Indicateur de lecture.
+Horodatage des messages.
 4. Calendrier
-Gestion des événements et rendez-vous utilisateur.
-Vue intuitive pour organiser le planning des élèves et des bénévoles.
+Affichage des rendez-vous hebdomadaires et des événements planifiés.
+Gestion simple et intuitive pour organiser son emploi du temps.
 5. Gestion des Tâches
-Création, édition et suppression de tâches :
-Les élèves ne peuvent créer que leurs propres tâches.
-Les bénévoles peuvent créer des tâches pour les élèves qu'ils suivent.
+Création et suivi des tâches :
+Les élèves peuvent gérer leurs propres tâches.
+Les bénévoles peuvent attribuer des tâches aux élèves qu’ils suivent.
+
+
+
+
+
 
 🔗 Liens Utiles
-Kanban GitHub : Lien vers le tableau du projet
-Dépôt GitHub : [Lien vers le dépôt](https://github.com/BaracusHanson/Learn-Home)
+Dépôt GitHub : https://github.com/BaracusHanson/Learn-Home?tab=readme-ov-file
+Tableau Kanban : Kanban Board
+
+
