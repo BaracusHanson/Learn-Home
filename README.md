@@ -39,7 +39,6 @@ Les bénévoles peuvent attribuer des tâches aux élèves qu’ils suivent.
 
 
 🔗 Liens Utiles
-Dépôt GitHub : https://github.com/BaracusHanson/Learn-Home?tab=readme-ov-file
-Tableau Kanban : Kanban Board
+Tableau Kanban :[Lien Kanban](https://github.com/users/BaracusHanson/projects/4/views/1)
 
 
